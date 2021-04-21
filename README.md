@@ -8,3 +8,4 @@ CLIP5 https://youtu.be/kUcHP4lwEsU
 CLIP6 https://youtu.be/MUhaCMMvGl4
 CLIP7 https://youtu.be/rAQz4qXlmNY
 CLIP8 https://youtu.be/CgVxlu6xrAI
+CLIP9 https://youtu.be/2NSj3Gyvwc8
